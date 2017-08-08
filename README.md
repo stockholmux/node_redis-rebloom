@@ -2,7 +2,7 @@
 
 This package allows [node_redis](https://github.com/NodeRedis/node_redis) (2.8+) to interface with the Redis module [rebloom](https://github.com/RedisLabsModules/rebloom).
 
-To use this module, you will need Redis 4.0 or higher and the rejson module installed.
+To use this module, you will need Redis 4.0 or higher and the rebloom module installed.
 
 ## Usage
 

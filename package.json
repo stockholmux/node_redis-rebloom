@@ -1,0 +1,24 @@
+{
+  "name": "redis-rebloom",
+  "version": "1.0.0",
+  "description": "rebloom redis module bindings for node_redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stockholmux/node_redis-rebloom.git"
+  },
+  "keywords": [
+    "redis",
+    "bloom",
+    "rebloom"
+  ],
+  "author": "Kyle J Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stockholmux/node_redis-rebloom/issues"
+  },
+  "homepage": "https://github.com/stockholmux/node_redis-rebloom#readme"
+}
